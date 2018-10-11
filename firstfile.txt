@@ -13,3 +13,5 @@ Fortes fortuna, adiuvat.
 Fortis cadere, cedere non potest.
 
 This is a test
+
+Test to add a new feature/branch
